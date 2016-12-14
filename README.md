@@ -1,0 +1,1 @@
+# pluralsight-helper-chrome-extension
